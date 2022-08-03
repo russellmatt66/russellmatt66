@@ -1,6 +1,6 @@
 Hi, I'm Matt! 
 
-Currently, I am a graduate student at the University of Washington where I study computational plasma physics and high performance computing. I am also part of a project that researchers the M2P2 propulsion concept, and work as a TA in the Department of Aeronautics & Astronautics during the academic year. My background is in Quantum Physics and Electrical Engineering, but my passion has always been for computing, and the science of computers. 
+Currently, I am a graduate student at the University of Washington where I study computational plasma physics and high performance computing. I am also part of a project that researches the M2P2 propulsion concept, and work as a TA in the Department of Aeronautics & Astronautics during the academic year. My background is in Quantum Physics and Electrical Engineering, but my passion has always been for computing, and the science of computers. 
 
 I have a working familiarity with the C, C++, Fortran, and Python programming languages and a strong desire to work more with these languages. Becoming a better programmer is important to me, and in my spare time I read and work through various books on computer science in pursuit of this goal.   
 
