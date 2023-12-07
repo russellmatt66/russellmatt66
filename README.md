@@ -1,6 +1,6 @@
 Hi there, I'm Matt! 
 
-I have a Master's degree in Aeronautics & Astronautics from the University of Washington where I studied computational plasma physics, nuclear fusion, and high-performance computing, and an undergraduate degree in Physics from Santa Clara University, where I studied electromagnetics and quantum computing, and. 
+I have a Master's degree in Aeronautics & Astronautics from the University of Washington where I studied computational plasma physics, nuclear fusion, and high-performance computing, and an undergraduate degree in Physics from Santa Clara University, where I studied electromagnetics and quantum computing. 
 
 Along the way I worked in Silicon Valley, and wrote parallel code that achieved Teraflops (Tflops = 10^12 Flops) of performance while being the highest-performing code on the final of an entire graduate HPC class of 100+. Afterwards, I used what I learned about C++ and high-performance computing to write both fluid, and kinetic plasma simulations where I implemented serial kernels which achieve Gigaflops (Gflops = 10^9 Flops) of performance on problem sizes ranging from hundreds of millions of particles, to billions of fluid points. 
 
