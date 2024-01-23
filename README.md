@@ -1,15 +1,7 @@
-Hi there, I'm Matt! Welcome to my Github. Please allow me to briefly introduce myself, and give my background.
+Welcome to my Github! I hope you enjoy the various projects, and codes, that I have written.
 
-I have a Master's degree in Aeronautics & Astronautics from the University of Washington where I studied parallel programming, computational plasma physics, nuclear fusion, and high-performance computing, and an undergraduate degree in Physics from Santa Clara University, where I studied electromagnetics, electrical engineering, and quantum computing. 
+In this repo, you will find files written in C, C++, Python, Julia, Rust, and bash. 
 
-HPC is a field that I came to somewhat late. After an undergraduate class in C, and one in ARM assembly, I spent most of the next few years either not programming, or writing Matlab. Matlab is easily my least favorite programming language, the only one that I truly dislike, but the one thing that I will not begrudge it is that it is good for teaching beginners who are running Windows. I was deeply dissatisfied during this period, for reasons that I could not articulate at the time, but which I now know stemmed from the amount of Matlab that I was writing. The language is slow, clunky, and after programming in C, it felt like a step backward. I looked at my peers who were taking data structures in C++ with envy.  
-
-My response to these feelings was to throw myself headlong into the pursuit of acquiring as low-level an understanding of computer architecture as I could. I minored in electrical engineering so that I could peel back the layers of a computing machine, and majored in physics so that I could understand how the ensemble actually worked at the lowest-level. My efforts impressed someone at the University of Washington enough to be accepted into the Engineering school for graduate study. 
-
-When graduate school began, truthfully, I floundered. 
-
-This changed when I wrote parallel code that achieved Teraflops (Tflops = 10^12 Flops) of performance, making it the highest-performing code on the final exam of an entire graduate HPC class of 100+. This moment was an epiphany. Afterwards, I used what I learned about C++, and high-performance computing to write both fluid, and kinetic plasma simulations where I implemented serial kernels which achieve Gigaflops (Gflops = 10^9 Flops) of performance on problem sizes ranging from hundreds of millions of particles, to billions of fluid points.
-
-Now, I'm applying my passion for computing, creativity, and skill at writing parallel, and high-performance, code to 
+The projects range from high-performance plasma physics simulations, to explorations of the performance of different execution configurations on a CUDA implementation of binary search.  
 
 https://leetcode.com/russm66/
