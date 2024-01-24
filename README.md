@@ -4,5 +4,5 @@ In this repo, you will find files written in C, C++, Python, Julia, Rust, and ba
 
 The projects range from high-performance plasma physics simulations, to explorations of the performance of different execution configurations for a CUDA kernel.
 
-At heart, I am problem-solver, so please check out my LeetCode to see my progress in mastering the various algorithms and data structures of computer science!  
+At heart, I am a problem-solver, so please check out my LeetCode to see my progress in mastering the various algorithms and data structures of computer science!  
 https://leetcode.com/russm66/
