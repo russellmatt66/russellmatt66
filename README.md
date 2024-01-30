@@ -13,5 +13,6 @@ Speed Records:
 - GPU = 114 +- 0.375 GB/s (GTX 960)
 
 Education:
+
 M.S., UW '23
 B.S., SCU '19
