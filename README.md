@@ -15,4 +15,5 @@ Speed Records:
 Education:
 
 M.S., UW '23
+
 B.S., SCU '19
