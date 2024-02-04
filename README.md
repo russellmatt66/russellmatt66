@@ -4,9 +4,6 @@ In this repo, you will find files written in C, C++, Python, Rust, and bash. Jul
 
 The projects range from high-performance plasma physics simulations, to explorations of the performance of different execution configurations for a CUDA kernel.
 
-At heart, I am a problem-solver, so please check out my LeetCode to see my progress in mastering the various algorithms and data structures of computer science!  
-https://leetcode.com/russm66/
-
 Speed Records:
 - Parallel = 8.243 Tflops (80 cores, UW HYAK Klone) 
 - Serial = 2.399 Gflops
